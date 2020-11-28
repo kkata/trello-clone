@@ -1,6 +1,6 @@
 <template>
   <div class="task-view">
-    <div class="flex flex-col flex-grow item-start justyfy-between px-4">
+    <div class="flex flex-col flex-grow items-start justify-between px-4">
       <input
         type="text"
         :value="task.name"
@@ -9,7 +9,7 @@
         @keyup.enter="updateTaskProperty($event, 'name')"
       />
       <textarea
-        class="relative bg-transparent px-2 border mt-2 h-64 border-none leading-normal"
+        class="relative w-full bg-transparent px-2 border mt-2 h-64 border-none leading-normal"
         :value="task.description"
         @change="updateTaskProperty($event, 'description')"
       />
