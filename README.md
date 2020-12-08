@@ -1,6 +1,6 @@
 # watch-us-build-trello
 
-Biginnerにカテゴライズされてるけど、難しい...  
+Beginnerにカテゴライズされてるけど、難しい...  
 ドラッグドロップの実装あたりからついていけなかった :tired_face:
 
 ## Project setup
