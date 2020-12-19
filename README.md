@@ -1,7 +1,9 @@
 # watch-us-build-trello
 
-Beginnerにカテゴライズされてるけど、難しい...  
+~~Beginnerにカテゴライズ~~ されてるけど、難しい...  
 ドラッグドロップの実装あたりからついていけなかった :tired_face:
+
+Intermediate に変更されてた。
 
 ## Project setup
 ```
